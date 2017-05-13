@@ -1,0 +1,20 @@
+.star-on {
+  fill: #faf26f;
+  stroke: #a29910;
+}
+
+.star-off{
+  fill: gray;
+  stroke: #faf26f;
+}
+
+.f0 {
+  font-size: 0px;
+}
+
+.center-block {
+  top: 50%;
+  left: 50%;
+  position: relative;
+  transform: translate(-50%, -50%);
+}
