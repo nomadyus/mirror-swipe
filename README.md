@@ -11,3 +11,6 @@ We are  able to run the site in browser for testing purposes using the command i
 browser-sync start --server --files "*, */*, */*/*"
 ```
 The above command will run a local mini-server of the directory and will provide a URL to view the site.
+
+## Site
+The site is hosted as [mirror-swipe](http://mirror-swipe.s3-website-us-east-1.amazonaws.com/) on an AWS S3 bucket.
